@@ -15,5 +15,7 @@ There is a single apple on the board at all times during the game. It appears at
 ### Obstacles
 At the beginning of a game, immovable obstacles are placed on the board. If a snake collides with an obstacle, it dies. That's really all there is to it.
 
+**[READ MORE](https://snake.wits.ai/docs)**
+
 ### Licence
 [WITS](https://snake.wits.ai/docs)
